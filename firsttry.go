@@ -1,13 +1,8 @@
 package main
 
-import(
-	"bytes"
-	"crypto/sha256"
-	"fmt"
-	"log"
-	"time"
-)
+import "fmt"
 
-func main()  {
-	
+func main() {
+	fmt.Print("My First Go Try!")
+
 }
